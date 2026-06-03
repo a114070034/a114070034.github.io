@@ -1,0 +1,169 @@
+.eileencenter{
+    text-align: center;
+    color:#FFF5EA;
+    background-color: #8E7F7F;
+}
+.nacl{
+    text-align: center;
+    color:rgb(115, 115, 115);
+    background-color: rgb(255, 251, 246);
+    border: 2px solid rgb(247, 219, 248);
+    padding: 10px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 50px auto;
+    width: 80%;
+    height: 100px;
+}
+.nacl1{
+    text-align: center;
+}
+.nacl2{
+   text-align: center; 
+   padding: 50px;
+   color:rgb(90, 87, 87);
+   font-family: "Noto Serif TC", serif;
+   font-optical-sizing: auto;
+   font-weight: 100px;
+   font-style:normal;
+}
+a.mylink{
+    color: rgb(132, 117, 100);
+    font-size: small;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(242, 233, 212);
+}
+a.mylink:hover{
+    background-color: rgb(132, 117, 100);
+    color: antiquewhite;
+}
+a.mylink2{
+    color: rgb(132, 117, 100);
+    font-size: small;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(242, 233, 212);
+}
+a.mylink2:hover{
+    background-color: rgb(132, 117, 100);
+    color: antiquewhite;
+}
+.bold{
+    font-size: 20px;
+    font-weight: 800;
+}
+.gogogo{
+    font-size: 50px;
+    text-align: center;
+}
+section#about {
+    background: linear-gradient(rgba(212, 242, 250, 0.8), rgba(184, 222, 255, 0.8)), url(../background.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section#about h1{
+    color: rgb(67 61 94);
+}
+
+a.dylink1{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;
+}
+a.dylink1:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+a.dylink2{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;   
+}
+a.dylink2:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+a.dylink3{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;
+}
+a.dylink3:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+a.bestardslink1{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;
+}
+a.bestardslink1:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+a.bestardslink2{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;
+}
+a.bestardslink2:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+a.bestardslink3{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;
+}
+a.bestardslink3:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+a.etolink1{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;
+}
+a.etolink1:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+a.etolink2{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;   
+}
+a.etolink2:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+a.etolink3{
+    color: #495b7d;
+    padding: 5px;
+    border-radius: 5px;
+}
+a.etolink3:hover{
+    background-color:#8ba3c5;
+    color: antiquewhite;
+}
+.mypic{
+    width: 97%;
+    border-radius: 10px;
+}
+section#chat {
+    background: url(../assets/img/end3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+#chat{
+    color: rgb(46, 83, 132);
+}
+section#skills{
+    background-color:#f5f1ed;
+}
