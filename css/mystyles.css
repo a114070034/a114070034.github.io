@@ -12,7 +12,7 @@
     border-radius: 20px 20px 20px 20px;
     margin: 50px auto;
     width: 80%;
-    height: 100px;
+    height: 130px;
 }
 .nacl1{
     text-align: center;
@@ -45,6 +45,17 @@ a.mylink2{
     background-color: rgb(242, 233, 212);
 }
 a.mylink2:hover{
+    background-color: rgb(132, 117, 100);
+    color: antiquewhite;
+}
+a.mylink3{
+    color: rgb(132, 117, 100);
+    font-size: small;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(242, 233, 212);
+}
+a.mylink3:hover{
     background-color: rgb(132, 117, 100);
     color: antiquewhite;
 }
@@ -150,8 +161,9 @@ a.etolink3:hover{
     color: antiquewhite;
 }
 .mypic{
-    width: 97%;
-    border-radius: 10px;
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
 }
 section#chat {
     background: url(../assets/img/end3.jpg);
@@ -167,3 +179,7 @@ section#chat {
 section#song{
     background-color:#f5f1ed;
 }
+.table th{
+    background-color: rgb(184, 205, 198);
+}
+
